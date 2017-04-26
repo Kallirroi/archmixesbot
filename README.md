@@ -14,6 +14,6 @@ archmixesbot
 
 3. Run with: `python watcher.py`
 
-# Help from
+# Helpful links:
 - https://github.com/joshbegley/twitter-image-bot/blob/master/everywordbot.py 
 - https://github.com/joaquinlpereyra/twitterImgBot/blob/master/twitterbot.py
