@@ -1,4 +1,0 @@
-./img/@test test.jpg
-./img/@test test2.jpg
-./img/@test test3.jpg
-./img/@louis_mizzanti , your mix of Baker House Dormitory, 30 St Mary Axe, Walt Disney Concert Hall.jpg
